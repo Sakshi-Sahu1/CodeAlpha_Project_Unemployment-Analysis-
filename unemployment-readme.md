@@ -112,7 +112,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGitHub](https://github.com/yourusername)
+- Your Name - Initial work - [Sakshi Sahu](https://github.com/Sakshi-Sahu1)
 
 ## 🙏 Acknowledgments
 
@@ -122,9 +122,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - Sakshi Sahu
+Email - Sakshi100sahu@gmail.com
 
-Project Link: [https://github.com/yourusername/unemployment-analysis](https://github.com/yourusername/unemployment-analysis)
+Project Link: https://github.com/Sakshi-Sahu1/CodeAlpha_Project_Unemployment-Analysis
 
 ---
-⭐ If you found this project useful, please consider giving it a star!
